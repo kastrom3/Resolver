@@ -27,3 +27,5 @@
 ![Arcell_3_icon](https://user-images.githubusercontent.com/69670223/172197088-c0d65ac1-b7d0-4bc3-83f6-09b227881736.png)
 
 - **Так-же были исправленны ошибки перевода, и не переведённые предметы**
+![image](https://user-images.githubusercontent.com/69670223/172221046-a5dd3d12-222e-4fe1-acfe-2d9b256934eb.png)
+![image](https://user-images.githubusercontent.com/69670223/172221078-51d5b491-8ba3-4bfd-b656-86937b31fa75.png)
